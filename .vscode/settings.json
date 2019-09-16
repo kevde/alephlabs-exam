@@ -1,0 +1,9 @@
+{
+  "eslint.options": {
+    "configFile": "./.eslintrc.json",
+  },
+  "eslint.run": "onType",
+  "eslint.enable": true,
+  "eslint.provideLintTask": true,
+  "eslint.autoFixOnSave": true,
+}
